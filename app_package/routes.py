@@ -1,4 +1,4 @@
-from app import app
+from app_package import app
 
 @app.route('/')
 @app.route('/index')
