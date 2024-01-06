@@ -1,1 +1,2 @@
 config.py filter=git-crypt diff=git-crypt
+secret-generator.py filter=git-crypt diff=git-crypt
